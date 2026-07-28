@@ -44,7 +44,15 @@ My interests include:
 - NetBeans
 - MATLAB
 - Linux (Learning)
+  
+## 🔧 Engineering Focus
 
+I am interested in developing systems that connect software with hardware:
+
+- Embedded software development
+- Microcontroller programming
+- Hardware-software integration
+- Control and automation systems
 
 ## 📚 Currently Learning
 
@@ -91,5 +99,7 @@ My goal is to become a skilled engineer who can design reliable software systems
 LinkedIn:
 www.linkedin.com/in/fatima-zahrae-aamak-336947377
 
+## 📊 GitHub Stats
+![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=tema-amak&show_icons=true&theme=transparent)
 
 ⭐ Always learning, building, and improving.
